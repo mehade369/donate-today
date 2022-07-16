@@ -13,6 +13,12 @@ body {
 .header {
   position: relative;
 }
+.header img {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
 
 .absulate {
   position: absolute;
